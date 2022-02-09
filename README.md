@@ -1,6 +1,6 @@
 ### Nome: Paulo de Oliveira Braga
 ### Matricula: 1915280021
-### E-mail: pdob.lic19@uea.edu.br 👋
+### E-mail: pdob.lic19@uea.edu.br
 
 <!--
 **Paulo-o-braga/paulo-o-braga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
