@@ -1,0 +1,9 @@
+
+
+var i=5
+
+if(i%2==0){
+  alert("Número par")
+}else{
+  alert("Número ímpar")
+}
