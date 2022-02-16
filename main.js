@@ -1,4 +1,3 @@
-//comentário: Olá, Mundo
 /*Paulo de Oliveira Braga
 Licenciatura em Computação
 Matrícula: 1915280021*/
@@ -6,7 +5,6 @@ Matrícula: 1915280021*/
 var number;
 var atv;
 number = 20;
-console.log("Olá, Mundo!");
 console.log(number);
 
 
