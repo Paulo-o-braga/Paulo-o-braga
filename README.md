@@ -1,8 +1,8 @@
-🧑🏽 Nome:
+Nome:
 ## Paulo de Oliveira Braga 
-📝 Matricula:
+Matricula:
 ## 1915280021 
-📧 E-mail:
+E-mail:
 ## pdob.lic19@uea.edu.br 
 
 <!--
